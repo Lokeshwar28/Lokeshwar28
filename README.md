@@ -7,7 +7,7 @@
 ### 💼 What I Build
 
 - 🛍️ [E-Commerce Platform](https://github.com/Lokeshwar28/E-commerce-frontend): Full-stack app with JWT Auth, AWS deployment, and cart/order systems  
-- 💬 Real-Time Blog App: React + Socket.io app with live post updates and secure auth  
+- 💬 [Real-Time Blog App](https://github.com/Lokeshwar28/Realtime_blog_frontend): React + Socket.io app with live post updates and secure auth  
 - 📚 [Book Notes Manager](https://github.com/Lokeshwar28/Book-notes): CRUD app using PostgreSQL + Open Library API  
 
 ---
