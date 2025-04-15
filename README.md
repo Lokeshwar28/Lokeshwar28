@@ -1,47 +1,80 @@
-# 👋 Hey there! I'm Lokeshwar Reddy
+<h1 align="center">Hey there! I'm Lokeshwar Reddy 👋</h1>
 
-🚀 I'm a Full-Stack Developer passionate about building secure, scalable, and modern web applications.
-
----
-
-### 💼 What I Build
-
-- 🛍️ [E-Commerce Platform](https://github.com/Lokeshwar28/E-commerce-frontend): Full-stack app with JWT Auth, AWS deployment, and cart/order systems  
-- 💬 [Real-Time Blog App](https://github.com/Lokeshwar28/Realtime_blog_frontend): React + Socket.io app with live post updates and secure auth  
-- 📚 [Book Notes Manager](https://github.com/Lokeshwar28/Book-notes): CRUD app using PostgreSQL + Open Library API  
+<p align="center">
+  <b>Full-Stack Developer | React.js • Node.js • PostgreSQL • AWS</b><br/>
+  Building scalable, secure, and modern web applications 🚀
+</p>
 
 ---
 
-### 🛠 Tech Stack
+## 💡 About Me
 
-`JavaScript` `React.js` `Node.js` `PostgreSQL` `Express.js`  
-`Tailwind CSS` `Socket.io` `AWS EC2` `Git` `REST APIs`
+🎓 I'm currently pursuing my Master's in Computer Science at **Texas Tech University**, specializing in full-stack web development.
+
+🔭 I'm passionate about:
+- Building full-stack apps with clean architecture
+- Creating cloud-native solutions on AWS
+- Delivering real-time experiences with Socket.io
+- Writing clean, scalable, and maintainable code
 
 ---
 
-### 📫 Connect with Me
+## 🧠 Tech Stack
 
-- 🌐 [Portfolio Website](https://portfolio-lokeshwar-reddy-gummireddys-projects.vercel.app/)
+```js
+Frontend:   React.js, Tailwind CSS, Framer Motion  
+Backend:    Node.js, Express.js, PostgreSQL, JWT  
+Cloud:      AWS (EC2, S3, CloudFront, Lambda)  
+Tools:      Git, GitHub, Vercel, Render, REST APIs
+```
+
+---
+
+## 🛠 Projects
+
+### 🛍️ E-Commerce Platform
+🔗 [Frontend](https://github.com/Lokeshwar28/E-commerce-frontend) | [Backend](https://github.com/Lokeshwar28/E-commerce-backend)  
+A secure, full-stack e-commerce app with:
+- JWT-based authentication
+- Cart and order system
+- AWS EC2 deployment with 99.9% uptime
+
+### 💬 Real-Time Blog App
+🔗 [Frontend](https://github.com/Lokeshwar28/Realtime_blog_frontend)  
+Secure blogging platform built with:
+- React + Node + PostgreSQL + Socket.io
+- Real-time post updates, caching, and performance optimization
+
+### 📚 Book Notes Manager
+🔗 [Repo](https://github.com/Lokeshwar28/Book-notes)  
+CRUD app with Open Library API + PostgreSQL:
+- Create, edit, delete and sort notes
+- Clean Bootstrap UI and backend logic
+
+---
+
+## 🔗 Featured Portfolio
+
+🚀 [portfolio-lokeshwar-reddy-gummireddys-projects.vercel.app](https://portfolio-lokeshwar-reddy-gummireddys-projects.vercel.app/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lokeshwar28&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshwar28&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+- 🌐 [Portfolio](https://portfolio-lokeshwar-reddy-gummireddys-projects.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lokesh-reddy-g/)
-- 📧 [Email](mailto:logumire@ttu.edu)
+- 🐙 [GitHub](https://github.com/Lokeshwar28)
+- 📧 Email: lokeshwar2808@gmail.com
 
 ---
 
-### 📈 GitHub Stats
-
-![Lokeshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokeshwar28&show_icons=true&theme=default)
-
-<!--
-**Lokeshwar28/Lokeshwar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Feel free to explore, fork, star, or reach out — always happy to connect!*
