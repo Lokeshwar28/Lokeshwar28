@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lokeshwar28/Lokeshwar28/main/A_professional_digital_banner_image_introduces_Lok.png" alt="Lokeshwar GitHub Banner" />
+</p>
 <h1 align="center">Hey there! I'm Lokeshwar Reddy 👋</h1>
 
 <p align="center">
