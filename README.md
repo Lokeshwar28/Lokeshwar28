@@ -65,8 +65,7 @@ CRUD app with Open Library API + PostgreSQL:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lokeshwar28&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshwar28&layout=compact&theme=tokyonight" width="48%"/>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&fontFamily=&preferLogin=false">    <img  alt="Lokeshwar28's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Lokeshwar28?cardType=github&fontFamily=&preferLogin=false" />  </a>
 </p>
 
 ---
