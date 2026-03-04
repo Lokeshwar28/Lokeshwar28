@@ -12,53 +12,65 @@
 
 ## 💡 About Me
 
-🎓 I'm currently pursuing my Master's in Computer Science at **Texas Tech University**, specializing in full-stack web development.
+🎓 I'm pursuing my Master's in Computer Science at **Texas Tech University**, specializing in full-stack web development with a focus on performance and scalability.
 
 🔭 I'm passionate about:
-- Building full-stack apps with clean architecture
+- Building optimized full-stack apps with clean architecture
 - Creating cloud-native solutions on AWS
-- Delivering real-time experiences with Socket.io
-- Writing clean, scalable, and maintainable code
+- Performance engineering (achieved 99/100 Lighthouse score 🚀)
+- Writing clean, maintainable, and production-ready code
 
 ---
 
 ## 🧠 Tech Stack
 
 ```js
-Frontend:   React.js, Tailwind CSS, Framer Motion  
+Frontend:   React 19, Vite, TailwindCSS, Framer Motion  
 Backend:    Node.js, Express.js, PostgreSQL, JWT  
 Cloud:      AWS (EC2, S3, CloudFront, Lambda)  
-Tools:      Git, GitHub, Vercel, Render, REST APIs
+Tools:      Git, GitHub, Vercel, React Hook Form
 ```
 
 ---
 
-## 🛠 Projects
+## 🛠 Featured Projects
 
 ### 🛍️ E-Commerce Platform
 🔗 [Frontend](https://github.com/Lokeshwar28/E-commerce-frontend) | [Backend](https://github.com/Lokeshwar28/E-commerce-backend)  
 A secure, full-stack e-commerce app with:
-- JWT-based authentication
-- Cart and order system
+- JWT-based authentication & authorization
+- Shopping cart and order management system
 - AWS EC2 deployment with 99.9% uptime
 
 ### 💬 Real-Time Blog App
 🔗 [Frontend](https://github.com/Lokeshwar28/Realtime_blog_frontend)  
 Secure blogging platform built with:
-- React + Node + PostgreSQL + Socket.io
-- Real-time post updates, caching, and performance optimization
+- React + Node.js + PostgreSQL + Socket.io
+- Real-time post updates with optimized caching
+- Performance & security best practices
 
 ### 📚 Book Notes Manager
 🔗 [Repo](https://github.com/Lokeshwar28/Book-notes)  
-CRUD app with Open Library API + PostgreSQL:
-- Create, edit, delete and sort notes
-- Clean Bootstrap UI and backend logic
+CRUD app integrated with Open Library API:
+- PostgreSQL database for persistent storage
+- Create, edit, delete, and sort book notes
+- Clean Bootstrap UI with REST API backend
 
 ---
 
-## 🔗 Featured Portfolio
+## 🚀 Portfolio V2 - Production Ready
 
-🚀 [portfolio-lokeshwar-reddy-gummireddys-projects.vercel.app](https://portfolio-lokeshwar-reddy-gummireddys-projects.vercel.app/)
+🌐 **[www.lokeshwar.tech](https://www.lokeshwar.tech)**
+
+**Highlights:**
+- ⚡ **99/100** Lighthouse Performance (Desktop)
+- 🎯 **35% bundle size reduction** with code splitting
+- ♿ **97/100** Accessibility score
+- 🔍 **SEO optimized** with sitemap & structured data
+- 🔒 **Security headers** configured
+- 🌓 **Dark/Light mode** with persistent theme
+
+**Tech Stack:** React 19, Vite, TailwindCSS, Framer Motion, React Hook Form
 
 ---
 
@@ -72,11 +84,11 @@ CRUD app with Open Library API + PostgreSQL:
 
 ## 📫 Let's Connect!
 
-- 🌐 [Portfolio](https://portfolio-lokeshwar-reddy-gummireddys-projects.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lokesh-reddy-g/)
-- 🐙 [GitHub](https://github.com/Lokeshwar28)
-- 📧 Email: lokeshwar2808@gmail.com
+- 🌐 **Portfolio:** [www.lokeshwar.tech](https://www.lokeshwar.tech)
+- 💼 **LinkedIn:** [linkedin.com/in/lokesh-reddy-g](https://www.linkedin.com/in/lokesh-reddy-g/)
+- 🐙 **GitHub:** [github.com/Lokeshwar28](https://github.com/Lokeshwar28)
+- 📧 **Email:** gummireddy2808@gmail.com
 
 ---
 
-⭐ *Feel free to explore, fork, star, or reach out — always happy to connect!*
+⭐ *Feel free to explore, fork, star, or reach out — always happy to connect and collaborate!*
